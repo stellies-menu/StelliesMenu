@@ -1,0 +1,138 @@
+#name a{
+    font-family: impact, fantasy;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(110, 37, 37);
+    padding-left: 20px;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+
+h2{
+    font-family: impact, fantasy;
+    
+    text-align: center;
+    font-size: 30px;
+    color: rgb(110, 37, 37);
+}
+
+h4{
+    font-family: impact, fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+}
+
+/***
+#name{
+    background-color: white;
+    width: 100%;
+    height: 5px;
+    position: sticky;
+    top: 0px;
+
+}
+***/
+
+#menu{
+    background-color: rgb(32, 51, 85);
+    width: 100%;
+    height: 60px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    position: sticky;
+    top: 0px;
+}
+
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 800;
+    width: 50%;
+    float: left;
+    display: block;
+     text-align: center; 
+}
+
+
+
+#menu a:hover{
+    color: #5077bd;
+}
+
+.menu-tap{
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    width: 100%;
+    height: 150px;
+    border-radius: 20px;
+    background-color: rgb(236, 236, 236);
+   padding-top: 1px;
+   padding-left: 60px;
+   margin-top: 2px;
+   margin-bottom: 60px;
+}
+.gallery img{
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.info{
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 80px;
+}
+
+#specials{
+    padding: 0;
+    margin-bottom: 0;
+    width: 90%;
+    color: red;
+
+}
+    
+footer a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 800;
+    width: 50%;
+    float: left;
+    display: block;
+     text-align: center; 
+}
+
+footer p{
+    font-size: 12px;
+    color: white;
+    Text-align: center;
+     padding-top: 20px;
+}
+
+.space{
+margin-top: 500px;
+}
+
+
+
+footer{
+    background-color:rgb(32, 51, 85);
+    width: 100%;
+    height: 50px;
+    margin-left: 20px;
+    padding-top: 12px;
+    padding-bottom: 1px;
+    margin-top: 1000px;
+}
